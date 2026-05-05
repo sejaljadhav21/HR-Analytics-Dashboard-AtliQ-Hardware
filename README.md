@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard — AtliQ Hardware
 
-<img width="703" height="344" alt="Image" src="https://github.com/user-attachments/assets/68f3d668-189f-48a7-b5a4-15d81373ae77" />
+<img width="999" height="400" alt="Image" src="https://github.com/user-attachments/assets/68f3d668-189f-48a7-b5a4-15d81373ae77" />
 
 ## 🔍 Project Overview
 
